@@ -1,0 +1,10 @@
+publishing:
+  app_store_connect:
+    key_id: $APP_STORE_CONNECT_KEY_IDENTIFIER
+    issuer_id: $APP_STORE_CONNECT_ISSUER_ID
+    api_key: $APP_STORE_CONNECT_PRIVATE_KEY
+
+    submit_to_app_store: true
+    release_type: SCHEDULED
+    earliest_release_date: 2021-12-29T14:00:00+00:00
+    copyright: 2021 Nevercode Ltd
